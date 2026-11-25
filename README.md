@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Glory Faborode 👋
 
-<!--
-**glory-fab/glory-fab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Málaga. Me enfoco en crear software funcional, limpio y bien estructurado, desde aplicaciones móviles nativas hasta sistemas con acceso a datos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que manejo
+* **Lenguajes:** Java, Kotlin, Python, JavaScript, PHP, SQL
+* **Frontend & Móvil:** Android Studio (XML), HTML5, CSS3
+* **Bases de datos:** MySQL, Oracle SQL, MongoDB
+* **Herramientas & Entornos:** Git, GitHub, Maven, Linux (Ubuntu), Odoo, IntelliJ IDEA, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Intereses profesionales
+Busco oportunidades de **prácticas (FCT / FP Dual) o perfil Junior**, con especial interés en desarrollo **Backend, aplicaciones móviles (Android), bases de datos e integración con IA**.
+
+### 🚀 Proyectos destacados
+* **[PanelDeEncuentro](https://github.com/TU-USUARIO/PanelDeEncuentro)** — Juego móvil para Android desarrollado en Java y XML basado en identificar elementos falsos por rondas temáticas.
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/glory-faborode-aladesanmi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](igloryfaborode@gmail.com)
