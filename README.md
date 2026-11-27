@@ -2,7 +2,7 @@
 
 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **Davante Medac Nova (Málaga)**. Me gusta construir aplicaciones funcionales y limpias, estructurar bien la lógica de negocio y el acceso a datos, y resolver problemas con constancia, mentalidad analítica y trabajo en equipo.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-glory--fab.github.io-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://glory-fab.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-glory--fab.github.io-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://glory-fab.github.io/)
 
 ---
 
@@ -52,6 +52,7 @@ Me interesa seguir creciendo en el desarrollo de aplicaciones multiplataforma y 
 ## Proyectos destacados
 - **GameZone**: Proyecto web colaborativo desarrollado en equipo aplicando control de versiones en GitHub, trabajo coordinado y arquitectura modular. [Ver web](https://6b7d2c5a.gamerzone-e1a.pages.dev/)
 - **Explorae** *(En proceso)*: Videojuego en desarrollo centrado en el diseño de mecánicas interactivas, lógica de juego y estructuración limpia del código.
+- **Implantación ERP Odoo (BitKids)** *(En proceso)*: Despliegue y configuración de un sistema ERP empresarial en Odoo conectado a base de datos PostgreSQL para la gestión integral de módulos y procesos.
 
 ## Formación, certificaciones e idiomas
 - **Formación**: T.S. en Desarrollo de Aplicaciones Multiplataforma — Davante Medac Nova (Málaga).
@@ -62,3 +63,4 @@ Me interesa seguir creciendo en el desarrollo de aplicaciones multiplataforma y 
 - **Ubicación**: Málaga
 - **Correo**: igloryfaborode@gmail.com
 - **LinkedIn**: [linkedin.com/in/glory-faborode-aladesanmi](https://www.linkedin.com/in/glory-faborode-aladesanmi)
+- **Portfolio**: [glory-fab.github.io](https://glory-fab.github.io/)
