@@ -2,10 +2,7 @@
 
 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **Davante Medac Nova (Málaga)**. Me gusta construir aplicaciones funcionales y limpias, estructurar bien la lógica de negocio y el acceso a datos, y resolver problemas con constancia, mentalidad analítica y trabajo en equipo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-glory--faborode-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/glory-faborode-aladesanmi)
-[![GitHub](https://img.shields.io/badge/GitHub-glory--fab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/glory-fab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-glory--fab.github.io-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://glory-fab.github.io)
-[![Email](https://img.shields.io/badge/Email-tu--correo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](igloryfaborode@gmail.com)
 
 ---
 
@@ -53,9 +50,8 @@ Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **D
 Me interesa seguir creciendo en el desarrollo de aplicaciones multiplataforma y software backend, cuidando tanto la arquitectura del código como la gestión eficiente de bases de datos. Busco oportunidades de prácticas (FCT) o perfil Junior donde aportar desde el primer día, aprender de equipos técnicos y asumir retos reales.
 
 ## Proyectos destacados
-- **PanelDeEncuentro**: Juego móvil para Android desarrollado en Java y XML con ConstraintLayout donde el jugador identifica elementos falsos frente a auténticos por rondas temáticas. [Ver repositorio](https://github.com/glory-fab/PanelDeEncuentro)
-- **Pokédex Web Interactiva**: Aplicación web desarrollada con HTML5 y CSS3 que muestra estadísticas, tipos, evoluciones y habilidades con diseño personalizado. [Ver repositorio](https://github.com/glory-fab/REPO-POKEDEX) · [Ver demo](https://glory-fab.github.io/REPO-POKEDEX)
-- **Proyecto Colaborativo en Equipo**: Desarrollo conjunto en GitHub aplicando control de versiones y estructuración modular. [Ver repositorio](https://github.com/glory-fab/REPO-EQUIPO)
+- **GameZone**: Proyecto web colaborativo desarrollado en equipo aplicando control de versiones en GitHub, trabajo coordinado y arquitectura modular. [Ver web](https://6b7d2c5a.gamerzone-e1a.pages.dev/)
+- **Explorae** *(En proceso)*: Videojuego en desarrollo centrado en el diseño de mecánicas interactivas, lógica de juego y estructuración limpia del código.
 
 ## Formación, certificaciones e idiomas
 - **Formación**: T.S. en Desarrollo de Aplicaciones Multiplataforma — Davante Medac Nova (Málaga).
@@ -65,4 +61,4 @@ Me interesa seguir creciendo en el desarrollo de aplicaciones multiplataforma y 
 ## Contacto
 - **Ubicación**: Málaga
 - **Correo**: igloryfaborode@gmail.com
-- **LinkedIn**: www.linkedin.com/in/glory-faborode-aladesanmi
+- **LinkedIn**: [linkedin.com/in/glory-faborode-aladesanmi](https://www.linkedin.com/in/glory-faborode-aladesanmi)
